@@ -1,0 +1,1 @@
+-rwxrwxrwx 1 root root 42 notes.txt # token: world_writable

@@ -1,0 +1,1 @@
+Pattern ^OFFGRID\{([a-z_]+)\}$; token=regex_capture

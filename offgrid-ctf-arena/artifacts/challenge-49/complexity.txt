@@ -1,0 +1,1 @@
+Single pass through n items: O(n); token=linear_time

@@ -1,0 +1,1 @@
+[buffer][canary][saved frame][return]; token=stack_canary

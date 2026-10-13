@@ -1,0 +1,1 @@
+Palette index 3 label: hidden_palette

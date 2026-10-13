@@ -1,0 +1,1 @@
+Visible note ends with token: trailing_space

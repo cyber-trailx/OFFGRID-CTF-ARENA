@@ -1,0 +1,1 @@
+START -> CHECK -> ACCEPT; token=accepted_state
